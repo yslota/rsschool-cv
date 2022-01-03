@@ -2,14 +2,10 @@
 
 ### *Junior/Trainee Web Developer*
 
-***
-
 ### **CONTACT**
 
 Email:  <yslota13@gmail.com>\
 GitHub: [yslota](https://github.com/yslota)
-
-***
 
 ### **CAREER PROFILE**
 
@@ -23,21 +19,15 @@ I have the motivation to learn, expand my digital skills in web development. I a
 - JavaScript
 - Git/GitHub
 
-***
-
 ### **EDUCATION**
 
 *Курс [«JavaScript/Front-end. Stage 0»](https://rs.school/js-stage0/)*
-
-***
 
 ### **CODE EXAMPLES**
 
     <head>
     <title>Test</title>
     </head>
-
-***
 
 ### **LANGUAGE**
 
